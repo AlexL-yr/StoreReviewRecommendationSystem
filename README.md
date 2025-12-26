@@ -11,7 +11,8 @@ Load Balancer: Nginx
 Distributed Lock: Redisson
 Testing: JMeter
 
-Designed a high-concurrency coupon seckill system using Redis Lua scripts
-Optimized flash sale performance from 450ms to 110ms average response time
-Replaced blocking queues with Redis Stream message queue for asynchronous order processing
-Used distributed locking and transactional AOP to ensure data consistency
+Designed a high-concurrency coupon seckill system using Redis Lua scripts.
+Optimized flash sale performance from 450ms to 110ms average response time.
+Replaced blocking queues with Redis Stream message queue for asynchronous order processing.
+Used distributed locking and transactional AOP to ensure data consistency.
+
